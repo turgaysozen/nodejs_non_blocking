@@ -1,7 +1,3 @@
-# Soostone
-
-Javascript Engineering
-Interview Assignment
 Write a long-lived service in JavaScript/NodeJS, that:
 1. Listens on port 9000 for incoming HTTP connections (use any library you'd like) in
 non-blocking fashion. It must accept and handle concurrent connections with
